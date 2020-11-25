@@ -14,11 +14,15 @@ author: deeplab
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  # Author's home: "https://deanattali.com"
+  Members: "members"
+  Projects: "_posts/projects"
+  Seminars: "_posts/seminars"
+  Implementation: "_posts/implementation"
+  Contact: "contact"
+  # About Me: "aboutme"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
@@ -109,7 +113,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+# navbar-img: "/assets/img/header.jpg"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
