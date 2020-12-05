@@ -1,8 +1,0 @@
-node_modules
-yarn-error.log
-exampleSite/public/*
-exampleSite/hugo_stats.json
-cypress/videos
-cypress/plugins
-cypress/screenshots
-cypress/support
