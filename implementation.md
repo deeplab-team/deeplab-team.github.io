@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seminars
+title: Implementation
 subtitle: 過去に実施した実装プロジェクト
 ---
 
