@@ -5,7 +5,7 @@ title: Contact
 
 勉強会は，主に日曜の午前中からオンライン開催しております．\
 勉強会に興味のある方はtwitter，または代表のメールアドレスからご連絡ください．\
-Twitter: @deeplab_ai
+Twitter: [@deeplab_ai](https://twitter.com/deeplab_ai)
 
 参加者は以下の基準を満たしているものと想定しています．
 - 研究への志がある．
