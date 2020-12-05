@@ -16,8 +16,8 @@
           目的 GANの基本構造の理解する． StyleGANおよびStyleGANv2の構造を理解する． 現実世界の画像を潜在空間に落とし込む手法を理解する． 概要 敵対的生成ネットワーク(GAN)は深層生成モデルの一つであり，適切に学習すれば，学習訓練データ集合に無く，かつ訓練データと見分けがつかないよいうなデータを生成することができます．本セミナーでは，近年世界に衝撃を与えたGANであるStyleGANを中心にして，GANの構造を説明します．さらに発展的な話題として，現実画像を潜在変数空間に落とし込む手法も説明します． 発表日時 場所:  オンライン (Zoom) 日時: 2020年5月10日10時 - 12時 参考資料 Generative Adversarial Networks [I. Goodfellow+, NeurIPS’17] https://arxiv.org/abs/1406.2661 Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [A. Radford+, ICLR’16] https://arxiv.org/abs/1511.06434 Wasserstein GAN [M. Arjovsky+, ICML’17] https://arxiv.org/abs/1701.07875 A Style-Based Generator Architecture for Generative Adversarial Networks [T....
         </description>
         <pubDate>Sun, 10 May 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/2020-05-10-gan/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-05-10-gan/</guid>
+        <link>http://localhost:4000/seminars/2020-05-10-gan</link>
+        <guid isPermaLink="true">http://localhost:4000/seminars/2020-05-10-gan</guid>
       </item>
     
       <item>
@@ -54,8 +54,8 @@
 
         </description>
         <pubDate>Sun, 05 Apr 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/2020-04-05-image-recog/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-04-05-image-recog/</guid>
+        <link>http://localhost:4000/projects/2020-04-05-image-recog</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2020-04-05-image-recog</guid>
       </item>
     
       <item>
@@ -84,8 +84,8 @@ https://arxiv.org/abs/1706.03762
 
         </description>
         <pubDate>Mon, 29 Apr 2019 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/2019-04-29-attention/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019-04-29-attention/</guid>
+        <link>http://localhost:4000/implementation/2019-04-29-attention</link>
+        <guid isPermaLink="true">http://localhost:4000/implementation/2019-04-29-attention</guid>
       </item>
     
   </channel>

@@ -14,7 +14,7 @@ subtitle: deeplab在籍メンバー
 　　　　[Haruka Kiyohara](https://sites.google.com/view/harukakiyohara) (TokyoTech, RL/ML/Management) \
 　　　　Waida Hiroki (TokyoTech, ML/AppliedMath) \
 　　　　Yusuke Uchida (TokyoTech, CV/ML/DL) \
-　　　　Akihiro_Suzuki (TokyoTech, CV/CG) \
+　　　　Akihiro Suzuki (TokyoTech, CV/CG) \
 　　　　Tomokazu Saito (TokyoTech, ML/HPC) \
 　　　　Kanoko Goto (TokyoTech, NLP/Speech) \
 　　　　Ryosuke Takanami (TokyoTech, CognitiveScience/RL/ML) \

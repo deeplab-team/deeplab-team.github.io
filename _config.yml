@@ -15,9 +15,9 @@ author: deeplab
 
 navbar-links:
   Members: "members"
-  Projects: "_posts/projects"
-  Seminars: "_posts/seminars"
-  Implementation: "_posts/implementation"
+  Projects: "projects"
+  Seminars: "seminars"
+  Implementation: "implementation"
   Contact: "contact"
   # About Me: "aboutme"
   # Resources:

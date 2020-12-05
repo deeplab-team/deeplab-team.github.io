@@ -1,11 +1,8 @@
 ---
 layout: post
-title: 'Attentionチュートリアル'
-subtitle: 
-cover-img:
-thumbnail-img:
-share-img:
+title: Attentionチュートリアル
 tags: [Implementation]
+permalink: implementation/2019-04-29-attention
 ---
 ## 目的
 - 様々な場面で登場するようになったAttention機構を実装ベースで理解する．

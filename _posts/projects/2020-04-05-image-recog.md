@@ -1,11 +1,8 @@
 ---
 layout: post
 title: 画像認識勉強会
-subtitle: 
-cover-img:
-thumbnail-img:
-share-img:
 tags: [Projects]
+permalink: projects/2020-04-05-image-recog
 ---
 ## 目的
 - 画像処理全般の体系的な知識を身につける．
