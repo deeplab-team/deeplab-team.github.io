@@ -6,7 +6,7 @@ You can see our website: https://deeplab-team.github.io/
 
 1. create a markdown file following the naming rule of `YYYY-MM-DD-TITLE.md` in `_posts`.
 
-2. write the below suffix.
+2. write the below prefix.
 ```
 ---
 layout: post
