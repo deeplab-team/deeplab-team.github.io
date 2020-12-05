@@ -12,7 +12,7 @@ You can see our website: https://deeplab-team.github.io/
 layout: post
 title: YOUR TITLE
 tags: [Projects] //choice: Projects, Seminars, Implementation
-permalink: project/YYYY-MM-DD-TITLE //path should be the same as your filename.
+permalink: project/YYYY-MM-DD-TITLE //path should be [category / your filename].
 ---
 ```
 
