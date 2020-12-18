@@ -2,7 +2,7 @@
 layout: post
 title: Attentionチュートリアル
 tags: [Implementation]
-permalink: implementation/2019-04-29-attention
+permalink: implementation/190429-attention
 ---
 
 ## 概要

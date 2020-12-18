@@ -2,7 +2,7 @@
 layout: post
 title: 画像認識勉強会
 tags: [Projects]
-permalink: projects/2020-04-05-image-recog
+permalink: projects/200405-recognition
 ---
 
 ## 概要
