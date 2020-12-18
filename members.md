@@ -21,7 +21,8 @@ subtitle: deeplab在籍メンバー
 　　　　Ryota Marumoto (Waseda, CognitiveScience/RL/ML) \
 　　　　Tatsukichi Shibuya (TokyoTech, CV/ML) \
 　　　　Akito Shimbo (TokyoTech, NLP/CV) \
-　　　　Hyogo Koizumi (TokyoTech, HCI/CG/CV)
+　　　　Hyogo Koizumi (TokyoTech, HCI/CG/CV) \
+　　　　Yuta Hironaga (TokyoTech, Robotics/CV)
 
 #### 過去の在籍メンバー/Alumni
 2019　  Yuki Maruyama (TokyoTech, NLP/DL)
