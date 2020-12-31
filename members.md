@@ -10,6 +10,7 @@ subtitle: deeplab在籍メンバー
 　　　　Daichi Saito (TokyoTech, HCI/Robotics)
 
 #### 学部生/Undergraduates
+       Yoshifumi Sugiyama (Niigata, ML/CV) \
 　　　　Fumi Takahashi (Waseda, ML/Security) \
 　　　　[Haruka Kiyohara](https://sites.google.com/view/harukakiyohara) (TokyoTech, RL/ML/Management) \
 　　　　Waida Hiroki (TokyoTech, ML/AppliedMath) \
@@ -22,7 +23,9 @@ subtitle: deeplab在籍メンバー
 　　　　Tatsukichi Shibuya (TokyoTech, CV/ML) \
 　　　　Akito Shimbo (TokyoTech, NLP/CV) \
 　　　　Hyogo Koizumi (TokyoTech, HCI/CG/CV) \
-　　　　Yuta Hironaga (TokyoTech, Robotics/CV)
+　　　　Yuta Hironaga (TokyoTech, Robotics/CV) \
+　　　　Miu Kojima (TokyoTech, CognitiveScience/Robotics/DL)
+　　　　
 
 #### 過去の在籍メンバー/Alumni
 2019　  Yuki Maruyama (TokyoTech, NLP/DL)
