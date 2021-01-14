@@ -13,5 +13,6 @@ for cat in categories:
                     print("[" + line.strip().replace("title: ", "") + "]", end='')
                 if line.startswith("permalink:"):
                     print("(http://localhost:4000/" + line.strip().replace("permalink: ", "") + ")")
+                    print()
     print("")
     
