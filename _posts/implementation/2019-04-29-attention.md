@@ -10,14 +10,11 @@ permalink: implementation/2019-04-29-attention
 
 ## 目的
 - 様々な場面で登場するようになったAttention機構を実装ベースで理解する．
-- 実際に機械翻訳のタスクを実行し，従来のSeq2Seqモデルと比較してTransformerの精度の高さを確認する
+- 実際に機械翻訳のタスクを実行し，従来のSeq2Seqモデルと比較してTransformerの精度の高さを確認する．
 
 ## 実施期間・日時
-
 場所: 友人宅 \
 日時: 2019年4月29日 10時 - 12時
 
 ## 参考資料
-
-Attention is All You Need [A. Vaswani+, NeurIPS’17] \
-https://arxiv.org/abs/1706.03762
+A. Vaswani et al. Attention is All You Need NeurIPS, 2017. [arXiv](https://arxiv.org/abs/1706.03762)
