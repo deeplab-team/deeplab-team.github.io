@@ -6,7 +6,7 @@ subtitle: deeplab在籍メンバー
 
 #### 大学院生/Graduate students
 代表　　[Takehiko Ohkawa](https://tkhkaeio.github.io/) (UTokyo, CV/DL/ML) \
-　　　　Soto Anno (TokyoTech, ML/DataScience) \
+　　　　[Soto Anno](https://s0t00524.github.io/s0t00524/) (TokyoTech, ML/DataScience) \
 　　　　Daichi Saito (TokyoTech, HCI/Robotics)
 
 #### 学部生/Undergraduates
