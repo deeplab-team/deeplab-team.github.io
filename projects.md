@@ -22,7 +22,7 @@ subtitle: 過去に実施した輪読会
 
 [強化学習1](https://deeplab-team.github.io/projects/2020-04-12-rl-mlp)
 
-[画像認識](https://deeplab-team.github.io/projects/2020-04-05-image-recog)
+[画像認識](https://deeplab-team.github.io/projects/2020-04-05-recognition)
 
 [パターン認識と機械学習](https://deeplab-team.github.io/projects/2020-03-22-prml)
 
