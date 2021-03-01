@@ -18,6 +18,6 @@ permalink: seminars/2020-05-24-linear-computation
 日時: 2020年5月24日 10時 - 12時
 
 ## 参考資料
-L. Page et al. The PageRank citation ranking: Bringing order to the web. Stanford InfoLab, 1999. [pdf](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
+L. Page et al. The PageRank citation ranking: Bringing order to the web. Stanford InfoLab, 1999. [[pdf]](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
 
-W. W. Symes. The QR algorithm and scattering for the finite nonperiodic Toda lattice. Physica D: Nonlinear Phenomena 4(2), 1982. [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/0167278982900690)
+W. W. Symes. The QR algorithm and scattering for the finite nonperiodic Toda lattice. Physica D: Nonlinear Phenomena 4(2), 1982. [[ScienceDirect]](https://www.sciencedirect.com/science/article/abs/pii/0167278982900690)

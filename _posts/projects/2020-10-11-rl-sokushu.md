@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 強化学習2
+title: 速習強化学習
 tags: [Projects]
 permalink: projects/2020-10-11-rl-sokushu
 ---
@@ -24,36 +24,36 @@ permalink: projects/2020-10-11-rl-sokushu
 ## 参考資料
 C. Szepesvari. 小山田 創哲 訳. 速習強化学習-基礎理論とアルゴリズム-. 共立出版, 2017.
 
-V. Mnih et al. Playing Atari with Deep Reinforcement Learning. NeurIPS, 2013. [arXiv](https://arxiv.org/abs/1312.5602)
+V. Mnih et al. Playing Atari with Deep Reinforcement Learning. NeurIPS, 2013. [[arXiv]](https://arxiv.org/abs/1312.5602)
 
-T. Schaul et al. Prioritized Experience Replay. ICLR, 2016. [arXiv](https://arxiv.org/abs/1511.05952)
+T. Schaul et al. Prioritized Experience Replay. ICLR, 2016. [[arXiv]](https://arxiv.org/abs/1511.05952)
 
-H. Hasselt. Double Q-learning. NeurIPS, 2010. [pdf](https://papers.nips.cc/paper/2010/file/091d584fced301b442654dd8c23b3fc9-Paper.pdf)
+H. Hasselt. Double Q-learning. NeurIPS, 2010. [[pdf]](https://papers.nips.cc/paper/2010/file/091d584fced301b442654dd8c23b3fc9-Paper.pdf)
 
-H. Hasselt et al. Deep Reinforcement Learning with Double Q-Learning. AAAI, 2016. [arXiv](https://arxiv.org/abs/1509.06461)
+H. Hasselt et al. Deep Reinforcement Learning with Double Q-Learning. AAAI, 2016. [[arXiv]](https://arxiv.org/abs/1509.06461)
 
-Z. Wang et al. Dueling Network Architectures for Deep Reinforcement Learning. ICML, 2016. [arXiv](https://arxiv.org/abs/1511.06581)
+Z. Wang et al. Dueling Network Architectures for Deep Reinforcement Learning. ICML, 2016. [[arXiv]](https://arxiv.org/abs/1511.06581)
 
-M. G. Bellemare et al. A Distributional Perspective on Reinforcement Learning. ICML, 2017. [arXiv](https://arxiv.org/abs/1707.06887)
+M. G. Bellemare et al. A Distributional Perspective on Reinforcement Learning. ICML, 2017. [[arXiv]](https://arxiv.org/abs/1707.06887)
 
-M. Fortunato et al. Noisy Networks For Exploration. ICLR, 2018. [pdf](https://openreview.net/forum?id=rywHCPkAW)
+M. Fortunato et al. Noisy Networks For Exploration. ICLR, 2018. [[pdf]](https://openreview.net/forum?id=rywHCPkAW)
 
-M. Hessel et al. Rainbow: Combining Improvements in Deep Reinforcement Learning. AAAI, 2018. [arXiv](https://arxiv.org/abs/1710.02298)
+M. Hessel et al. Rainbow: Combining Improvements in Deep Reinforcement Learning. AAAI, 2018. [[arXiv]](https://arxiv.org/abs/1710.02298)
 
-A. Nair et al. Massively Parallel Methods for Deep Reinforcement Learning. ICML, 2015. [arXiv](https://arxiv.org/abs/1507.04296)
+A. Nair et al. Massively Parallel Methods for Deep Reinforcement Learning. ICML, 2015. [[arXiv]](https://arxiv.org/abs/1507.04296)
 
-D. Horgan et al. Distributed Prioritized Experience Replay. ICLR, 2018. [arXiv](https://arxiv.org/abs/1803.00933)
+D. Horgan et al. Distributed Prioritized Experience Replay. ICLR, 2018. [[arXiv]](https://arxiv.org/abs/1803.00933)
 
-S. Kapturowski et al. Recurrent Experience Replay in Distributed Reinforcement Learning. ICLR, 2019. [pdf](https://openreview.net/forum?id=r1lyTjAqYX)
+S. Kapturowski et al. Recurrent Experience Replay in Distributed Reinforcement Learning. ICLR, 2019. [[pdf]](https://openreview.net/forum?id=r1lyTjAqYX)
 
-C. Gulcehre et al. Making Efficient Use of Demonstrations to Solve Hard Exploration Problems. ICLR, 2020. [arXiv](https://arxiv.org/abs/1909.01387)
+C. Gulcehre et al. Making Efficient Use of Demonstrations to Solve Hard Exploration Problems. ICLR, 2020. [[arXiv]](https://arxiv.org/abs/1909.01387)
 
-A. Badia et al. Never Give Up: Learning Directed Exploration Strategies. ICLR, 2020. [arXiv](https://arxiv.org/abs/2002.06038)
+A. Badia et al. Never Give Up: Learning Directed Exploration Strategies. ICLR, 2020. [[arXiv]](https://arxiv.org/abs/2002.06038)
 
-A. P. Badia et al. Agent57: Outperforming the Atari Human Benchmark, ICML, 2020. [arXiv](https://arxiv.org/abs/2003.13350)
+A. P. Badia et al. Agent57: Outperforming the Atari Human Benchmark, ICML, 2020. [[arXiv]](https://arxiv.org/abs/2003.13350)
 
-T. P. Lillicrap et al. Continuous Control with Deep Reinforcement Learning. ICLR, 2016. [arXiv](https://arxiv.org/abs/1509.02971)
+T. P. Lillicrap et al. Continuous Control with Deep Reinforcement Learning. ICLR, 2016. [[arXiv]](https://arxiv.org/abs/1509.02971)
 
-J. Schulman et al. Trust Region Policy Optimization. ICML, 2015. [arXiv] (https://arxiv.org/abs/1502.05477)
+J. Schulman et al. Trust Region Policy Optimization. ICML, 2015. [[arXiv]] (https://arxiv.org/abs/1502.05477)
 
-J. Schulman et al. Proximal Policy Optimization. 2017. [arXiv](https://arxiv.org/abs/1707.06347)
+J. Schulman et al. Proximal Policy Optimization. 2017. [[arXiv]](https://arxiv.org/abs/1707.06347)

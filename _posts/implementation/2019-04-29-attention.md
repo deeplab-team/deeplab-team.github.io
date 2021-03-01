@@ -17,4 +17,4 @@ permalink: implementation/2019-04-29-attention
 日時: 2019年4月29日 10時 - 12時
 
 ## 参考資料
-A. Vaswani et al. Attention is All You Need NeurIPS, 2017. [arXiv](https://arxiv.org/abs/1706.03762)
+A. Vaswani et al. Attention is All You Need NeurIPS, 2017. [[arXiv]](https://arxiv.org/abs/1706.03762)

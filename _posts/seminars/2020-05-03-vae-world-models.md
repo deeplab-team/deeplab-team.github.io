@@ -22,6 +22,6 @@ I. Goodfellow et al. Deep Learning. MIT Press, 2016.
 
 C. M. Bishop. Recognition and Machine Learning. New York :Springer, 2006.
 
-D. Ha. World Models. NeurIPS, 2018. [arXiv](https://arxiv.org/abs/1803.10122)
+D. Ha. World Models. NeurIPS, 2018. [[arXiv]](https://arxiv.org/abs/1803.10122)
 
-Y. Bengio. Representation Learning: A Review and New Perspectives. PAMI, 2013. [arXiv](https://arxiv.org/abs/1206.5538)
+Y. Bengio. Representation Learning: A Review and New Perspectives. PAMI, 2013. [[arXiv]](https://arxiv.org/abs/1206.5538)

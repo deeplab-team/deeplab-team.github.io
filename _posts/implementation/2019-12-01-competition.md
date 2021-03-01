@@ -1,6 +1,6 @@
 ---
 layout: post
-title: コンペティション
+title: 機械学習コンペティション
 tags: [Implementation]
 permalink: implementation/2019-12-11-competition
 ---
