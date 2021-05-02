@@ -25,7 +25,7 @@ subtitle: deeplab在籍メンバー
 　　　　Shota Nagai (TokyoTech, ML) \
 　　　　Hiroaki Honda (TokyoTech, NLP/CV)
 #### 過去の在籍メンバー/Alumni
-2020 　 Soto Anno (TokyoTech, ML/DataScience) \
+2020 　　Soto Anno (TokyoTech, ML/DataScience) \
  　　　　Fumi Takahashi (Waseda, ML/Security) \
  　　　　Yusuke Uchida (TokyoTech, CV/ML/DL) \
  　　　　Tomokazu Saito (TokyoTech, ML/HPC) \
