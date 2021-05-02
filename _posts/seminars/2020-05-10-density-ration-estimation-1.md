@@ -16,4 +16,4 @@ permalink: seminars/2020-06-21-density-ratio-estimation-1
 日時: 2020年5月10日 13時 - 15時
 
 ## 参考資料
-M. Sugiyama et al. Density Ratio Estimation in Machine Learning. Cambridge University Press.
+[1] M. Sugiyama et al. Density Ratio Estimation in Machine Learning. Cambridge University Press.

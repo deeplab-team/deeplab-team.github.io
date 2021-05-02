@@ -1,6 +1,6 @@
 ---
 layout: post
-title:メタ研究
+title: メタ研究
 tags: [Seminars]
 permalink: seminars/2021-03-07-meta-research
 ---

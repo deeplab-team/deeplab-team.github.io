@@ -18,12 +18,8 @@ permalink: seminars/2020-06-21-density-ratio-estimation-2
 日時: 2020年6月21日 10時 - 12時
 
 ## 参考資料
-井出 剛・杉山 将. 機械学習プロフェッショナルシリーズ 異常検知と変化検知. 講談社, 2015.
-
-V. Chandola et al. Anomaly detection: A survey. ACM Comput. Surv., 2009. [DOI](DOI:https://doi.org/10.1145/1541880.1541882)
-
-R. Chalapathy and S. Chawla. Deep learning for anomaly detection: A survey. 2019. [[arXiv]](https://arxiv.org/abs/1901.03407)
-
-S. Hido et al. Statistical outlier detection using direct density ratio estimation. KAIS, 2011. [[pdf]](http://2boy.org/~yuta/publications/Statistical%20Outlier%20Detection%20Using%20Direct%20Density%20Ratio%20Estimation.pdf)
-
-T. Kanamori et al. Efficient direct density ratio estimation for non-stationarity adaptation and outlier detection. NeurIPS, 2009. [[pdf]](https://papers.nips.cc/paper/2008/file/1385974ed5904a438616ff7bdb3f7439-Paper.pdf)
+[1] 井出 剛・杉山 将. 機械学習プロフェッショナルシリーズ 異常検知と変化検知. 講談社, 2015. \
+[2] V. Chandola et al. Anomaly detection: A survey. ACM Comput. Surv., 2009. [DOI](DOI:https://doi.org/10.1145/1541880.1541882) \
+[3] R. Chalapathy and S. Chawla. Deep learning for anomaly detection: A survey. 2019. [[arXiv]](https://arxiv.org/abs/1901.03407) \
+[4] S. Hido et al. Statistical outlier detection using direct density ratio estimation. KAIS, 2011. [[pdf]](http://2boy.org/~yuta/publications/Statistical%20Outlier%20Detection%20Using%20Direct%20Density%20Ratio%20Estimation.pdf) \
+[5] T. Kanamori et al. Efficient direct density ratio estimation for non-stationarity adaptation and outlier detection. NeurIPS, 2009. [[pdf]](https://papers.nips.cc/paper/2008/file/1385974ed5904a438616ff7bdb3f7439-Paper.pdf)

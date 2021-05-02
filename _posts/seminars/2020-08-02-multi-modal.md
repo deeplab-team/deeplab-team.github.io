@@ -17,6 +17,6 @@ permalink: seminars/2020-08-02-multi-modal
 日時: 2020年8月2日 10時-11時
 
 ## 参考資料
-[1] M. Suzuki and Y. Matsuo. Multimodal Learning by Deep Generative Model. JSAI, 2016. [[pdf]](https://www.ai-gakkai.or.jp/jsai2016/webprogram/2016/pdf/727.pdf)
-[2] Tutorial on Multimodal Machine Learning. Multimodal  communication and Machine Learning Laboratory, CMU. [[pdf]](https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf)
+[1] M. Suzuki and Y. Matsuo. Multimodal Learning by Deep Generative Model. JSAI, 2016. [[pdf]](https://www.ai-gakkai.or.jp/jsai2016/webprogram/2016/pdf/727.pdf)　\
+[2] Tutorial on Multimodal Machine Learning. Multimodal  communication and Machine Learning Laboratory, CMU. [[pdf]](https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf) \
 [3] T. Baltrusˇaitis et al. Multimodal Machine Learning: A Survey and Taxonomy. NeurIPS, 2017. [[arXiv]](https://arxiv.org/abs/1705.09406)

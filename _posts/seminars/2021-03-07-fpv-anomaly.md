@@ -17,7 +17,7 @@ permalink: seminars/2021-03-07-fpv-anomaly
 日時: 2021年3月7日 9時 - 10時
 
 ## 参考資料
-[1] R. Chalapathy et al. Deep Learning for Anomaly Detection: A Survey. 2019.  [[arXiv]](https://arxiv.org/abs/1901.03407)
-[2] J. Yi et al. Patch SVDD: Patch-level SVDD for Anomaly Detection and Segmentation. ACCV, 2020. [[arXiv]](https://arxiv.org/abs/2006.16067)
-[3] L. Ruff et al. Deep One-Class Classification. ICML, 2018. [[pdf]](http://data.bit.uni-bonn.de/publications/ICML2018.pdf)
+[1] R. Chalapathy et al. Deep Learning for Anomaly Detection: A Survey. 2019.  [[arXiv]](https://arxiv.org/abs/1901.03407) \
+[2] J. Yi et al. Patch SVDD: Patch-level SVDD for Anomaly Detection and Segmentation. ACCV, 2020. [[arXiv]](https://arxiv.org/abs/2006.16067) \
+[3] L. Ruff et al. Deep One-Class Classification. ICML, 2018. [[pdf]](http://data.bit.uni-bonn.de/publications/ICML2018.pdf) \
 [4] D. Gong et al. Memorizing Normality to Detect Anomaly: Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection. ICCV, 2019 [[arXiv]](https://arxiv.org/abs/1904.02639)
