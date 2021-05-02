@@ -44,4 +44,4 @@ Chapter 17:Conclusions and Future Directions
 
 
 ## 参考資料
-M. Sugiyama et al. Density Ratio Estimation in Machine Learning, Cambridge University Press, 2012.
+[1] M. Sugiyama et al. Density Ratio Estimation in Machine Learning, Cambridge University Press, 2012.

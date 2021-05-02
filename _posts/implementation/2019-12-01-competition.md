@@ -21,6 +21,5 @@ permalink: implementation/2019-12-11-competition
 日時: 2019年11月 - 12月
 
 ## 参考資料
-[Kaggle](https://www.kaggle.com)
-
-[SIGNATE](https://signate.jp/)
+[1] [Kaggle](https://www.kaggle.com)
+[2] [SIGNATE](https://signate.jp/)

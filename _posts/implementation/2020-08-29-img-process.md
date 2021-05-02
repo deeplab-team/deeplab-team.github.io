@@ -22,4 +22,4 @@ permalink: implementation/2020-08-29-img-process
 日時: 2020年5月 - 8月, 毎週土曜日13時 - 14時
 
 ## 参考資料
-[画像処理100本ノック!!](https://yoyoyo-yo.github.io/Gasyori100knock/)
+[1] [画像処理100本ノック!!](https://yoyoyo-yo.github.io/Gasyori100knock/)

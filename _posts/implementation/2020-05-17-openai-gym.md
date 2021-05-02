@@ -17,4 +17,4 @@ permalink: implementation/2020-05-17-openai-gym
 日時: 2020年5月17日13時 - 15時
 
 ## 参考資料
-[OpenAI Gym Official Page](https://gym.openai.com/)
+[1] [OpenAI Gym Official Page](https://gym.openai.com/)
