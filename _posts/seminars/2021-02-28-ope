@@ -1,0 +1,23 @@
+---
+layout: post
+title: オフ方策評価とOpen Bandit Project
+tags: [Seminars]
+permalink: seminars/2021-02-28-ope
+---
+
+## 概要
+機械学習は予測のための技術としてもてはやされています．しかしその実応用の場面に目を向けてみると，予測のためというよりもむしろ「それぞれのユーザーにどのファッションアイテムを推薦すべきか？」などの意思決定を自動化・高性能化するために用いることが多いです．オフ方策評価 (Off-Policy Evaluation; OPE)は，機械学習などによって構成される意思決定方策の性能を，別の方策によって蓄積されたログデータのみを用いて評価するための技術であり，その応用可能性から，活発に研究され始めている分野です．本発表では，オフ方策評価の基礎を解説しつつ，その現実的で再現可能な実験評価や容易な実装を可能にすべく進行しているオープンソースプロジェクトについて簡単なデモを交えながら紹介します． \
+※本講演は[齋藤優太](https://usaito.github.io/japanese/)氏をお招きし，ご講演いただきました．
+
+## 目的
+- オフ方策評価の重要性について理解する．
+- バンディットのオフ方策評価の代表的な手法とその性質について学ぶ．
+- 最先端のオープンソースプロジェクトについて知見を得る．
+
+## 発表日時
+場所:  オンライン (Zoom) \
+日時: 2020年2月28日 13時 - 14時
+
+## 参考資料
+[1] Yuta Saito et al. Open Bandit Dataset and Pipeline: Towards Realistic and Reproducible Off-Policy Evaluation. 2020. [[arXiv]](https://arxiv.org/abs/2008.07146) [[package]](https://github.com/st-tech/zr-obp) [[dataset]](https://research.zozo.com/data.html) [[google group]](https://groups.google.com/g/open-bandit-project) \
+[2] [awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl)
