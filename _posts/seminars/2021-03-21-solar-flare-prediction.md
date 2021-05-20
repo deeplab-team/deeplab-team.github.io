@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 太陽フレア予測における畳み込みニューラルネットワークの有効性の検証
+title: 太陽フレア予測におけるCNNの有効性の検証
 tags: [Seminars]
 permalink: seminars/2021-03-21-solar-flare-prediction
 ---
