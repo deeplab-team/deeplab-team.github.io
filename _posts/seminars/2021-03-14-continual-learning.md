@@ -5,19 +5,19 @@ tags: [Seminars]
 permalink: seminars/2021-03-14-continual-learning
 ---
  
-# 概要
+## 概要
 機械学習の研究や社会実装は日々顕著な発展を遂げています．しかし，これまでに機械学習の能力が人間の有する知能水準に到達することはありませんでした．機械学習が高水準な知能を獲得するためには，不特定のタスクを継続的に学習していく必要があります．現在の機械学習のもつ汎化性能は，新規タスクを学習する度に過去タスクに対するテスト精度が低下していくという，破滅的忘却と呼ばれる現象に阻害されています．継続学習とは，機械学習から破滅的忘却を防ぎ，さらに過去タスクでの知識を活用して継続的な学習を達成しようとする分野であり，近年盛り上がりを見せつつあります．本セミナーでは，継続学習の観点から破滅的忘却を防ぐためにこれまで提案されてきた方法について解説し，手法ごとの比較や限界について説明します．
  
-# 目的
+## 目的
  - 継続学習の目的と定義を与える．
  - 破滅的忘却を防ぐ手法の分類と代表的な手法について解説する．
  - 解説した手法どうしを比較し，また限界について理解する．
  
-# 発表日時
+## 発表日時
 場所: オンライン (Zoom) \
 日時: 2021年3月14日10時 - 11時
  
-# 参考資料
+## 参考資料
 [1] R. Aljundi et al. Expert Gate: Lifelong Learning with a Network of Experts. CVPR ,2017. [[arXiv]](https://arxiv.org/abs/1611.06194) \
 [2] R. Aljundi et al. Memory Aware Synapses: Learning What (not) to Forget. ECCV, 2018. [[arXiv]](https://arxiv.org/abs/1711.09601) \
 [3] A. Chaudhry et al. Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence. ECCV, 2018. [[arXiv]](https://arxiv.org/abs/1801.10112) \
