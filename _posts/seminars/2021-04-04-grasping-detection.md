@@ -14,9 +14,11 @@ permalink: seminars/2021-04-04-grasping-detection
 - ディープラーニングをベースとした把持検出技術及び関連研究の紹介する．
 - 今後の産業用ロボットを取り巻く状況について大まかに理解する．
 
+
 ## 発表日時
 場所: オンライン (Zoom) \
 日時: 2021年4月4日10時 - 11時
+
 
 ## 参考資料
 [1] A. Iriondo et al.  Affordance-Based Grasping Point Detection Using Graph Convolutional Networks for Industrial Bin-Picking Applications. 2021. [[MDPI]](https://www.mdpi.com/1424-8220/21/3/816) \
