@@ -7,7 +7,7 @@ permalink: seminars/2021-04-11-factorization-machine-and-quantum-annealing
 
 ## 概要
 近年話題になっているマテリアルインフォマティクス(MI)において，機械学習(ML)が大きな役割を担っています．ブラックボックス最適化によるマテリアルデザインではなく，なぜそのデザインが選ばれたのか，原理を示せるようなホワイトボックスな最適化が求められています．ここではMIの一分野である，automated material designについて 簡単に説明し，そこでどのようにMLが使われているのかを示します．
-FM(Factorization Machine)と量子アニーリング(Quantum Annealing， QA)を利用し，実際に波長選択性の高い物質を作成した例を他論文から取り挙げます．(データの関係で手元の例は示せません．)そこでどのようにFMとQAが用いられているのか，またその有用性を示します．
+FM(Factorization Machine)と量子アニーリング(Quantum Annealing， QA)を利用し，実際に波長選択性の高い物質を作成した例を他論文から取り挙げます．そこでどのようにFMとQAが用いられているのか，またその有用性を示します．
 
 ## 目的
 - Automated material design においてどのようにMLが関わっているかを理解する．
