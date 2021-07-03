@@ -10,9 +10,9 @@ permalink: seminars/2021-04-11-factorization-machine-and-quantum-annealing
 Factorization Machineと量子アニーリングを利用し，実際に波長選択性の高い物質を作成した例を他論文から取り挙げます．そこでどのようにFactorization Machineと量子アニーリングが用いられているのか，またその有用性を示します．
 
 ## 目的
-- Automated material design においてどのようにMLが関わっているかを理解する．
-- スパースなデータに対するFMの有効性を理解する．
-- QAについて興味を持ってもらう．
+- Automated material design においてどのように機械学習が関わっているかを理解する．
+- スパースなデータに対するFactorization Machineの有効性を理解する．
+- 量子アニーリングについて興味を持ってもらう．
 
 ## 発表日時
 場所:  オンライン (Zoom) \
