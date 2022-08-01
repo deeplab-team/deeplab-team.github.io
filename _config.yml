@@ -14,7 +14,7 @@ author: deeplab
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Members: "members"
+  # Members: "members"
   Projects: "projects"
   Seminars: "seminars"
   Implementation: "implementation"
